@@ -1,2 +1,4 @@
 a=str("congratulations")
-print(a.upper())
+print(a[::3] )
+print(a[::1] )
+print(a[::-1] )
